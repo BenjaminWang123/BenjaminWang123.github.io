@@ -3,6 +3,8 @@
 Seattle, WA, USA
 https://linkedin.com/in/zichang-wang-uw
 
+> Aspiring data analyst focused on data-driven decision making and real-world impact.
+
 ---
 
 ## Education
