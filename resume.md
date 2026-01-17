@@ -29,7 +29,7 @@ https://linkedin.com/in/zichang-wang-uw
 ### Data Analyst — Intelliimpact LLC
 *Dallas, TX | May 2024 – October 2024*
 
-- Designed a data-driven marketing strategy that increased auto sales by **8%**.
+- Designed a data-driven marketing strategy that increased auto sales by **7%**.
 - Conducted exploratory data analysis in Python, contributing to a **30% increase** in customer acquisition.
 - Built SQL-based customer segmentation to enable personalized campaigns, improving engagement by **15%**.
 - Ran A/B tests on email campaigns (subject lines, timing, CTAs), increasing open rates by **10%** and reducing unsubscribes by **5%**.
