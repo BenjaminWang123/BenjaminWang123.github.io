@@ -7,7 +7,7 @@ https://linkedin.com/in/zichang-wang-uw
 
 ## Education
 
-[**University of Washington — Seattle**]: https://www.washington.edu/
+[University of Washington — Seattle](https://www.washington.edu/)
 **B.A. in Geography: Data Science**
 **Minor:** Informatics
 **Expected Graduation:** June 2026
